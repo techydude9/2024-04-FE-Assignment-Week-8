@@ -1,0 +1,14 @@
+/* Week 8
+    CSS file
+    Author: Bob Ruzga
+    Date: June 20, 2024
+    Using Bootstrap 5.3.3*/
+
+/* Setting for H1 style */
+h1 {
+    text-align: center;
+    background-color: blue;
+    color: aqua;
+    width: 500px;
+    margin-left: 35%;
+}
